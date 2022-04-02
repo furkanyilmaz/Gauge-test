@@ -1,0 +1,78 @@
+[
+  {
+ "key": "Iphone",
+ "value": "[class='ac-gn-link ac-gn-link-iphone']",
+ "type": "css"
+  },
+
+  {
+    "key": "Iphone13Pro",
+    "value": "//*[@class='chapternav-wrapper']/ul/li[1]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "Satinal",
+    "value": "[class='ac-ln-button']",
+    "type": "css"
+  },
+
+  {
+    "key": "Modelsec",
+    "value": "//span[contains(text(),'6.1 inç ekran')]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "Renksec",
+    "value": "//*[@class='rc-dimension-selector-group row form-selector-group-withgutters']/div[2]/label/span[contains(text(),'Gümüş')]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "Kapasitesec",
+    "value": "//*[@class='rc-dimension-selector-group row form-selector-group-withgutters']/div[1]//label/span[contains(text(),'128')]",
+    "type": "xpath"
+  },
+
+  {
+    "key": "Cantayaekle",
+    "value": "//*[@name='add-to-cart']",
+    "type": "xpath"
+  },
+
+  {
+    "key": "Cantayigozdengecir",
+    "value": "[class='button button-block button-super']",
+    "type": "css"
+  },
+
+  {
+    "key": "Kaldir",
+    "value": "[class='rs-iteminfo-remove as-buttonlink']",
+    "type": "css"
+  },
+
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+
+]
+
+
+
+
