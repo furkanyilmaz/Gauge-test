@@ -1959,3 +1959,61 @@
 03-04-2022 01:11:20.342 [Gauge] [INFO] Spec file added / modified: C:\AppleTest\specs\apple.spec
 03-04-2022 01:13:45.372 [Gauge] [INFO] Spec file added / modified: C:\AppleTest\specs\apple.spec
 03-04-2022 01:13:45.379 [Gauge] [INFO] Spec file added / modified: C:\AppleTest\specs\apple.spec
+03-04-2022 01:24:18.907 [Gauge] [INFO] Spec file added / modified: C:\AppleTest\specs\example.spec
+03-04-2022 02:06:54.963 [Gauge] [INFO] Watching directory: C:\AppleTest\specs
+03-04-2022 02:06:54.964 [Gauge] [DEBUG] Found 2 files
+03-04-2022 02:06:54.968 [Gauge] [INFO] Initializing concepts cache with 1 concepts
+03-04-2022 02:06:54.968 [Gauge] [DEBUG] Adding concepts from C:\AppleTest\concept\Apple.cpt
+03-04-2022 02:06:54.969 [Gauge] [INFO] Initializing specs cache with 2 specs
+03-04-2022 02:06:54.969 [Gauge] [DEBUG] Adding specs from C:\AppleTest\specs\example.spec
+03-04-2022 02:06:54.969 [Gauge] [DEBUG] Adding specs from C:\AppleTest\specs\apple.spec
+03-04-2022 02:06:54.969 [Gauge] [INFO] Initializing steps cache with 3 steps
+03-04-2022 02:06:54.969 [Gauge] [INFO] Gauge daemon initialized and listening on port: 53665
+03-04-2022 02:06:55.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"2\" saniye bekle" > 
+03-04-2022 02:06:55.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<2> saniye bekle" parameters:"2" > > 
+03-04-2022 02:06:55.475 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"2\" saniye bekle" > 
+03-04-2022 02:06:55.475 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<2> saniye bekle" parameters:"2" > > 
+03-04-2022 02:06:56.089 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"1\" saniye bekle" > 
+03-04-2022 02:06:56.089 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<1> saniye bekle" parameters:"1" > > 
+03-04-2022 02:07:00.407 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Satinal\" elementine tikla" > 
+03-04-2022 02:07:00.407 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Satinal> elementine tikla" parameters:"Satinal" > > 
+03-04-2022 02:07:00.707 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> adrese git" > 
+03-04-2022 02:07:00.707 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} adrese git" parameterizedStepValue:"<key> adrese git" parameters:"key" > > 
+03-04-2022 02:07:00.708 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> elementine tikla" > 
+03-04-2022 02:07:00.708 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<key> elementine tikla" parameters:"key" > > 
+03-04-2022 02:07:00.970 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Kaldir\" elementine tikla" > 
+03-04-2022 02:07:00.970 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Kaldir> elementine tikla" parameters:"Kaldir" > > 
+03-04-2022 02:07:00.973 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"3\" saniye bekle" > 
+03-04-2022 02:07:00.973 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<3> saniye bekle" parameters:"3" > > 
+03-04-2022 02:07:00.975 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"<key> saniye bekle" > 
+03-04-2022 02:07:00.975 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} saniye bekle" parameterizedStepValue:"<key> saniye bekle" parameters:"key" > > 
+03-04-2022 02:07:00.977 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Apple sitesine gidilir" > 
+03-04-2022 02:07:00.977 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Apple sitesine gidilir" parameterizedStepValue:"Apple sitesine gidilir" > > 
+03-04-2022 02:07:02.504 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:" Apple sitesine gidilir" > 
+03-04-2022 02:07:02.504 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Apple sitesine gidilir" parameterizedStepValue:"Apple sitesine gidilir" > > 
+03-04-2022 02:07:02.508 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Iphone\" elementine tikla" > 
+03-04-2022 02:07:02.508 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Iphone> elementine tikla" parameters:"Iphone" > > 
+03-04-2022 02:07:02.511 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Iphone13Pro\" elementine tikla" > 
+03-04-2022 02:07:02.512 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Iphone13Pro> elementine tikla" parameters:"Iphone13Pro" > > 
+03-04-2022 02:07:02.516 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Modelsec\" elementine tikla" > 
+03-04-2022 02:07:02.516 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Modelsec> elementine tikla" parameters:"Modelsec" > > 
+03-04-2022 02:07:02.518 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Renksec\" elementine tikla" > 
+03-04-2022 02:07:02.519 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Renksec> elementine tikla" parameters:"Renksec" > > 
+03-04-2022 02:07:02.521 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Kapasitesec\" elementine tikla" > 
+03-04-2022 02:07:02.521 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Kapasitesec> elementine tikla" parameters:"Kapasitesec" > > 
+03-04-2022 02:07:02.524 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Cantayaekle\" elementine tikla" > 
+03-04-2022 02:07:02.524 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Cantayaekle> elementine tikla" parameters:"Cantayaekle" > > 
+03-04-2022 02:07:02.526 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"Cantayigozdengecir\" elementine tikla" > 
+03-04-2022 02:07:02.526 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} elementine tikla" parameterizedStepValue:"<Cantayigozdengecir> elementine tikla" parameters:"Cantayigozdengecir" > > 
+03-04-2022 02:07:11.009 [Gauge] [INFO] Spec file added / modified: C:\AppleTest\specs\apple.spec
+03-04-2022 02:07:11.015 [Gauge] [INFO] Spec file added / modified: C:\AppleTest\specs\apple.spec
+03-04-2022 02:08:10.296 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"\"https://www.apple.com/tr/\" adrese git" > 
+03-04-2022 02:08:10.296 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"{} adrese git" parameterizedStepValue:"<https://www.apple.com/tr/> adrese git" parameters:"https://www.apple.com/tr/" > > 
+03-04-2022 02:10:42.209 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"* \"https://www.apple.com/tr/\" adrese git" > 
+03-04-2022 02:10:42.209 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"* {} adrese git" parameterizedStepValue:"* <https://www.apple.com/tr/> adrese git" parameters:"https://www.apple.com/tr/" > > 
+03-04-2022 02:10:42.211 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Open the Gauge homepage" > 
+03-04-2022 02:10:42.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Open the Gauge homepage" parameterizedStepValue:"Open the Gauge homepage" > > 
+03-04-2022 02:10:42.211 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Go to Gauge Get Started Page" > 
+03-04-2022 02:10:42.211 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Go to Gauge Get Started Page" parameterizedStepValue:"Go to Gauge Get Started Page" > > 
+03-04-2022 02:10:42.212 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:<stepText:"Ensure installation instructions are available" > 
+03-04-2022 02:10:42.212 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:<stepValue:<stepValue:"Ensure installation instructions are available" parameterizedStepValue:"Ensure installation instructions are available" > > 

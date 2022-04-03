@@ -35,35 +35,3 @@ Apple Sepete Ekle
 * "Kaldir" elementine tikla
 * "3" saniye bekle
 
-
-Apple Sepete Ekle2
------------
-* Apple sitesine gidilir
-
-* "Iphone" elementine tikla
-* "2" saniye bekle
-
-* "Iphone13Pro" elementine tikla
-* "2" saniye bekle
-
-* "Satinal" elementine tikla
-* "2" saniye bekle
-
-* "Modelsec" elementine tikla
-* "1" saniye bekle
-
-* "Renksec" elementine tikla
-* "2" saniye bekle
-
-* "Kapasitesec" elementine tikla
-* "2" saniye bekle
-
-* "Cantayaekle" elementine tikla
-* "2" saniye bekle
-
-* "Cantayigozdengecir" elementine tikla
-* "3" saniye bekle
-
-* "Kaldir" elementine tikla
-* "3" saniye bekle
-
